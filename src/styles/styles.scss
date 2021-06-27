@@ -1,0 +1,28 @@
+
+.ant-row{
+  .ant-col{
+    .ant-form-item-label{
+      label {
+        width: 100px;
+        font-weight: bold;
+      }
+    }
+  }
+  .fieldset{
+    border: 1px solid black;
+    padding: 20px 0 20px 0;
+    background-image: url("https://st2.depositphotos.com/1177973/10672/i/950/depositphotos_106722572-stock-photo-beautiful-simple-winter-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20%;
+  }
+
+  .ant-table-cell{
+    text-align: center;
+  }
+}
+
+.row-table{
+  margin-top: 20px;
+}
